@@ -18,7 +18,7 @@
   margin: 0px;
 }
 body {
-  background-image: url("assets/Aircraft\ Landing\ Page.png");
+  background-image: url("/assets/landingPage/AircraftLandingPage.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
