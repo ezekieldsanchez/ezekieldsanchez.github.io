@@ -49,11 +49,9 @@ header {
   height: 10%;
   width: 100%;
 }
-a {
+header > a {
   text-decoration-line: none;
   font-weight: 10;
-}
-#headerTextLink {
   font-size: 1.5vw;
   font-family: sans-serif;
 }
